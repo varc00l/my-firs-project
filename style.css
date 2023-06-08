@@ -1,0 +1,25 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+nav a {
+    width: 555px;
+    height: 19px;
+    left: 315px;
+    top: 71px;
+    text-decoration: none;
+    color: #7D7D7D;
+    word-spacing: 15px;
+    text-align: center;
+    
+}
+body {
+    font-family: 'Playfair Display', serif;
+}
+#festival {
+    width: 420px;
+    height: 280px;
+    left: 148px;
+    top: 182px;
+
+}
